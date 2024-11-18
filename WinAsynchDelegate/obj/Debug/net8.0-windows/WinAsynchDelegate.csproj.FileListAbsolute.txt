@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.exe
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.deps.json
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.runtimeconfig.json
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.dll
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.pdb
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.AssemblyInfo.cs
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.dll
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\refint\WinAsynchDelegate.dll
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.pdb
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.genruntimeconfig.cache
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\ref\WinAsynchDelegate.dll
+C:\Users\Acer\source\repos\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsyncDelegate.Form1.resources
